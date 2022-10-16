@@ -1,4 +1,4 @@
-# Mi portafolio parte de Frontend.
+# Mi portafolio parte de Frontend:
 
 ![](./src/assets/Portfolio.png)
 
@@ -8,7 +8,7 @@ ______
 ### `npm i emailjs-com`
 
 Ejecútalo con:
-### `nmp install`
+### `npm install`
 ### `npm start`
 
 Y disfruta 	
