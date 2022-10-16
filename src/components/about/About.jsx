@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/me-me-mejor.png';
+import ME from '../../assets/illustration.png';
 import {SiJavascript} from 'react-icons/si';
 import {SiPython} from 'react-icons/si';
 import {SiJava} from 'react-icons/si';
@@ -36,8 +36,8 @@ const About = () => {
             </article>
           </div> 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, vel? Nesciunt, odit? Doloribus sint ad necessitatibus cumque maiores facilis ex. Mollitia corporis quam voluptate neque doloribus esse cupiditate veniam repudiandae?
-            Magnam natus reiciendis, quae sint corrupti numquam repudiandae, vero cupiditate enim dolor velit voluptas fugit reprehenderit quisquam non. Beatae commodi dolor veritatis reprehenderit magnam voluptatum iste. Molestiae quasi delectus quos?
+          Soy una coder con mucha iniciativa, muy curiosa, aplicada y con muchas ganas de aprender. Me apasiona el desarrollo de aplicaciones web y la inteligencia artificial.
+          He trabajado con metodologias ágiles utilizando Jira y Trello.
           </p>
           <a href="/#contact" className='btn btn-primary'>Let's Chat</a>
         </div>

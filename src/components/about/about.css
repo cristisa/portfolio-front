@@ -21,13 +21,13 @@
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
-    width: 70%;
+    width: 100%;
     transform: rotate(10deg);
     transition: var(--transition);
 }
 
 .about__me-image:hover {
-    transform: rotate(20deg);
+    transform: rotate(0deg);
 }
 
 .about__content {
