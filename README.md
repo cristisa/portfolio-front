@@ -14,7 +14,7 @@ Ejecútalo con:
 Y disfruta 	
 :tada:
 
-## Herramientas utilizadas
+## Stack:
 
 - HTML    
 - CSS
